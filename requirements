@@ -1,0 +1,8 @@
+Beaker==1.6.4
+Jinja2==2.7.1
+MarkupSafe==0.18
+SQLAlchemy==0.8.4
+bottle==0.11.6
+bottle-flash==0.1
+tornado==3.1.1
+wsgiref==0.1.2
